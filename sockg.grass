@@ -1,0 +1,7 @@
+node.Person {
+  color: #DA7194;
+  border-color: #cc3c6c;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+  caption: "{firstName}";
+}
